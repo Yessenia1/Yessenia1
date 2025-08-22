@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 Soy una programadora universitaria apasionada por la tecnología y el desarrollo de software. Me caracterizo por mi entusiasmo por aprender, adaptabilidad y ganas de sobresalir, siempre buscando nuevos retos que me impulsen a crecer personal y profesionalmente.<br><br>Tengo una gran motivación por participar en proyectos colaborativos, donde pueda aplicar mis conocimientos, adquirir nuevas experiencias y aportar soluciones innovadoras.<br><br>💡 Mi objetivo es seguir fortaleciendo mis habilidades técnicas y blandas para convertirme en una profesional destacada, capaz de contribuir al éxito de los equipos en los que participe.
 
 
